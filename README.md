@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 컴퓨터공학과 전공
 
 ## Links
+- email: cy6kimm@gmail.com
 - 티스토리: https://chaechaepower.tistory.com/
