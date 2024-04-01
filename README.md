@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Introduction
+- sw이해 실습중
+
+## Career
+- 컴퓨터공학과 전공
+
+## Links
+- 티스토리: https://chaechaepower.tistory.com/
