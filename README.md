@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Introduction
-- sw이해 실습중
+- backend developer
 
 ## Career
 - 컴퓨터공학과 전공
