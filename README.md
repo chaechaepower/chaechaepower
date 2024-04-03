@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaepower&show_icons=true&theme=rose)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaepower&show_icons=true&theme=swift)
 
 ## Introduction
 - backend developer
