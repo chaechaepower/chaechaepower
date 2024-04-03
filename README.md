@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔨 fix 🔨
 
 <!--
 **chaechaepower/chaechaepower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ## Links
 - email: cy6kimm@gmail.com
-- 티스토리: https://chaechaepower.tistory.com/
+- blog: https://chaechaepower.tistory.com/
