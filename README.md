@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaepower&show_icons=true&theme=swift)
 
 ## Introduction
-- backend developer
+- Backend Developer
 
 ## Career
-- 컴퓨터공학과 전공
+- 영남대학교 컴퓨터공학과
 
 ## Links
 - email: cy6kimm@gmail.com
