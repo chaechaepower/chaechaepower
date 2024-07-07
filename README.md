@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ## Links
 - email: cy6kimm@gmail.com
-- blog: https://chaechaepower.tistory.com/
+- blog: https://velog.io/@chaechaepower/posts
