@@ -1,4 +1,4 @@
-# 🔨 fix 🔨
+
 <!--
 **chaechaepower/chaechaepower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +16,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaechaepower&show_icons=true&theme=swift)
 
-## Introduction
-- Backend Developer
 
-## Career
-- 영남대학교 컴퓨터공학과
-
-## Links
-- email: cy6kimm@gmail.com
-- blog: https://velog.io/@chaechaepower/posts
